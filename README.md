@@ -42,7 +42,7 @@ a = (3*4)+5 \
 This a simple arithmetic expression to mutiply then add integers
 print (a) 
 
-"""Exercice 7 et 8 """
+Exercice 7 et 8
 
 Exercice 9
 
